@@ -1,10 +1,8 @@
-import Header from "./components/headertemp";
-import AppRouter from "./Router";
-
 function App() {
   return (
-    <div className="font-sans" >
-      <AppRouter />
+    <div>
+      <h1>Paradise Nursery 🌱</h1>
+      <h2>by [Your Name]</h2>
     </div>
   );
 }
